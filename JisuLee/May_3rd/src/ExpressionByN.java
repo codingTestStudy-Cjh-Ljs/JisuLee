@@ -3,7 +3,7 @@ import java.util.*;
 /*
     프로그래머스 동적프로그래밍 문제 - N으로 표현
     https://programmers.co.kr/learn/courses/30/lessons/42895?language=java
-    pm11:45 ~ 12:45
+    pm 11:45 ~ 12:45
 
     와.. 접근 자체를 못하겠음
     결국 힌트를 봤고, 규칙을 찾는 것(특히 점화식)이 관건.
